@@ -1,4 +1,6 @@
-"""Lecteur de cartes à puce (tout lecteur PC/SC standard : ACR39U, OMNIKEY, etc.) : ATR, commandes APDU, lecture et écriture mémoire."""
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Wudstyz
+"""Lecteur de cartes à puce via PC/SC (testé et fiable en lecture/écriture avec un HID OMNIKEY 3121) : ATR, commandes APDU, lecture et écriture mémoire."""
 import threading
 
 try:
