@@ -11,6 +11,8 @@
 
 <p align="center"><img src="docs/screenshots/01_accueil.png" width="800" alt="ChipCard screenshot"></p>
 
+> **Intended use.** ChipCard is a personal research and learning tool for reading/writing **your own smart cards** (badges, test cards, hobby projects) whose content you have the right to change. It speaks the standard PC/SC protocol (ATR, APDU) without bypassing any protection or cloning a secured card: it only reads and writes what the reader itself is willing to communicate. Only use it on hardware you own or are authorized to handle.
+
 ## What it does
 
 ChipCard drives a **PC/SC** smart-card reader from a real macOS application, with a simple interface:

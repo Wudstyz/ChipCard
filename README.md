@@ -11,6 +11,8 @@
 
 <p align="center"><img src="docs/screenshots/01_accueil.png" width="800" alt="Capture d'écran de ChipCard"></p>
 
+> **Usage prévu.** ChipCard est un outil personnel de recherche et d'apprentissage pour lire/écrire **tes propres cartes à puce** (badges, cartes de test, projets perso) dont tu as le droit de modifier le contenu. Il parle le protocole standard PC/SC (ATR, APDU) sans contourner de protection ni cloner une carte sécurisée : il lit et écrit ce que le lecteur veut bien communiquer, rien de plus. Utilise-le uniquement sur du matériel qui t'appartient ou que tu es autorisé à manipuler.
+
 ## Ce que ça fait
 
 ChipCard pilote un lecteur de cartes à puce **PC/SC** depuis une vraie application macOS, avec une interface simple en français :
