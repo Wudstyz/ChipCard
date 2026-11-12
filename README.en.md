@@ -2,7 +2,7 @@
   <img src="docs/icon.png" width="96" alt="ChipCard icon">
 </p>
 <h1 align="center">ChipCard</h1>
-<p align="center">Read and write smart cards on a Mac, with a PC/SC reader.</p>
+<p align="center">Read and write smart cards on a Mac, tested with a HID OMNIKEY 3121 reader.</p>
 <p align="center">
   <a href="README.md">Français</a> ·
   <img src="https://img.shields.io/badge/platform-macOS%20(Apple%20Silicon)-informational">

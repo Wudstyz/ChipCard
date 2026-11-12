@@ -2,7 +2,7 @@
   <img src="docs/icon.png" width="96" alt="Icône ChipCard">
 </p>
 <h1 align="center">ChipCard</h1>
-<p align="center">Lire et écrire des cartes à puce sur Mac, avec un lecteur PC/SC.</p>
+<p align="center">Lire et écrire des cartes à puce sur Mac, testé avec un lecteur HID OMNIKEY 3121.</p>
 <p align="center">
   <a href="README.en.md">English</a> ·
   <img src="https://img.shields.io/badge/plateforme-macOS%20(Apple%20Silicon)-informational">
